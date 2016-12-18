@@ -1,0 +1,26 @@
+header{
+  height: 300px;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding-top: 1%;
+}
+h1{
+  font-size: 7rem;
+  font-family: sans-serif;
+}
+
+main{
+  width: 60%;
+  height: 400px;
+  display: inline-block;
+  vertical-align: top;
+}
+aside{
+  width: 35%;
+  height: 400px;
+  background-color: blue;
+  display: inline-block;
+  vertical-align: top;
+}
